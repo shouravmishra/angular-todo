@@ -1,0 +1,30 @@
+h1{
+    background: black;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+input{
+    background: #ececec;
+}
+table{
+    background: #9a9a9a;
+    padding: 10px;
+}
+th{
+    background: #a12d1c;
+    color: white;
+    padding: 5px;
+}
+input{
+    margin: 10px;
+    height: 30px;
+    width: 300px;
+}
+button{
+    height:20px;
+    width: 50 px;
+    background: #2473ea;
+    color: white;
+}
+
